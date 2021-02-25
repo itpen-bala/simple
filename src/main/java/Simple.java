@@ -1,5 +1,3 @@
-package ch.vorburger.openshift.s2i.example;
-
 class Simple {
 
     public static void main(String[] args) {

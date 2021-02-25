@@ -9,7 +9,7 @@ repositories {
     jcenter()
 }
 
-mainClassName = 'ch.vorburger.openshift.s2i.example.Simple'
+mainClassName = 'Simple'
 
 jar {
   manifest {
